@@ -18,4 +18,5 @@ using either Bash or Python.
 2. Automated Backup Solution
 3. Log File Analyzer
 4. Application Health Checker
+   
 I'm choosing objectives 1 (System Health Monitoring Script) and 4 (Application Health Checker) using Python.
